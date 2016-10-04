@@ -1,0 +1,37 @@
+.textintro{
+  margin-left: 245px;
+}
+
+
+form .form-group input{
+  width: 400px;
+  margin-left: 268px;
+}
+
+form .form-group p{
+  margin-left: 332px;
+  margin-top: 8px;
+  margin-bottom: -8px;
+  font-size: medium;
+}
+
+.btn{
+  font-size: 20px;
+  margin-left: 370px;
+  width: 150px;
+}
+
+.textintro p{
+  margin-left: 65px;
+}
+
+input.form-control.ng-invalid.ng-touched{
+  border: 1px solid #DA3637;
+}
+input.form-control.ng-valid.ng-touched{
+  border: 1px solid #509D12;
+}
+
+.ng-invalid.btn{
+  background-color: black;
+}
